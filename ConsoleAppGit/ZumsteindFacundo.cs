@@ -9,6 +9,6 @@ namespace ConsoleAppGit
      public class ZumsteindFacundo
     {
 
-        public string Nombre { get; set; }
+        public string apellido { get; set; }
     }
 }
