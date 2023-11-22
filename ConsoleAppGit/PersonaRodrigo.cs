@@ -8,7 +8,7 @@ namespace ConsoleAppGit
 {
     public class PersonaRodrigo
     {
-        public string Nombre { get; set; }
+        public string NombreCómpleto { get; set; }
 
         public string Apellido { get; set; }
 
