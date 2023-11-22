@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppGit
 {
-    public class PersonaRodrigo
+    public class PersonaMatias
     {
         public string Nombre { get; set; }
-
-        public string Apellido { get; set; }
     }
 }
